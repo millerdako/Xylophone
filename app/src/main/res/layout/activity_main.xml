@@ -19,7 +19,8 @@
         android:background="@color/red"
         android:textColor="@color/purple"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <Button
         android:id="@+id/d_key"
@@ -31,7 +32,8 @@
         android:background="@color/orange"
         android:textColor="@color/blue"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:text="D - RE" />
 
     <Button
         android:id="@+id/e_key"
@@ -43,7 +45,8 @@
         android:background="@color/yellow"
         android:textColor="@color/turquoise"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <Button
         style="@style/KeyStyle"
@@ -55,7 +58,7 @@
         android:layout_height="wrap_content"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
         />
 
     <Button
@@ -68,7 +71,7 @@
         android:layout_height="wrap_content"
         android:textColor="@color/yellow"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
         />
 
 
@@ -82,7 +85,7 @@
         android:layout_height="wrap_content"
         android:textColor="@color/orange"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
         />
 
     <Button
@@ -95,7 +98,7 @@
         android:layout_height="wrap_content"
         android:textColor="@color/red"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
         />
 
 </LinearLayout>
