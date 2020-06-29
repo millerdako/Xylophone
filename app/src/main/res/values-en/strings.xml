@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Xilófono</string>
+    <string name="app_name">Xylophone</string>
     <string name="C">C - Do</string>
     <string name="D">D - Re</string>
     <string name="E">E - Mi</string>
